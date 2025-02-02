@@ -1,1 +1,1 @@
-Cleaner
+Clean code
